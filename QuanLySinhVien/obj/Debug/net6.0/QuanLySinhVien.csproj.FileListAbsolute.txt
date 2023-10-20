@@ -1,0 +1,15 @@
+D:\C# ( schools)\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.exe
+D:\C# ( schools)\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.deps.json
+D:\C# ( schools)\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.runtimeconfig.json
+D:\C# ( schools)\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.dll
+D:\C# ( schools)\QuanLySinhVien\bin\Debug\net6.0\QuanLySinhVien.pdb
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.AssemblyInfoInputs.cache
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.AssemblyInfo.cs
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.dll
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\refint\QuanLySinhVien.dll
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.pdb
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\QuanLySinhVien.genruntimeconfig.cache
+D:\C# ( schools)\QuanLySinhVien\obj\Debug\net6.0\ref\QuanLySinhVien.dll

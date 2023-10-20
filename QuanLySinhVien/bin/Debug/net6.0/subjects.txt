@@ -1,0 +1,87 @@
+# Tệp thông tin môn học
+
+TenMonHoc:Cơ Sở lập trình
+MaMonHoc:23C1INF50900504
+GiaoVien:Nguyễn Mạnh Tuấn
+NgayBatDau: 2023/09/01
+
+TenMonHoc:Cơ sở dữ liệu
+MaMonHoc:23C1INF50900604
+GiaoVien:Hồ Thị Thanh Tuyến
+NgayBatDau: 2023/09/01
+
+TenMonHoc:Cấu trúc dữ liệu và giải thuật
+MaMonHoc:23C1INF50900702
+GiaoVien:Đặng Ngọc Hoàng Thành
+NgayBatDau: 2023/09/01
+
+TenMonHoc:Toán dành cho tin học
+MaMonHoc:23C1INF50901104
+GiaoVien:Huỳnh Văn Đức
+NgayBatDau: 2023/09/01
+
+TenMonHoc: Toán Cao Cấp
+MaMonHoc: 23C1MTH301001
+GiaoVien: Phạm Thị Minh
+NgayBatDau: 2023/09/03
+
+TenMonHoc: Tiếng Anh Giao Tiếp
+MaMonHoc: 23C1ENG201002
+GiaoVien: Trần Văn Đức
+NgayBatDau: 2023/09/05
+
+TenMonHoc: Quản Trị Mạng
+MaMonHoc: 23C1NET401003
+GiaoVien: Lê Thị Hương
+NgayBatDau: 2023/09/07
+
+TenMonHoc: Kỹ Thuật Lập Trình
+MaMonHoc: 23C1PRG202004
+GiaoVien: Hoàng Văn Phong
+NgayBatDau: 2023/09/09
+
+TenMonHoc: Hệ Điều Hành
+MaMonHoc: 23C1OS405005
+GiaoVien: Nguyễn Thanh Hà
+NgayBatDau: 2023/09/11
+
+TenMonHoc: Cơ Sở Dữ Liệu
+MaMonHoc: 23C1DBS301006
+GiaoVien: Lê Văn Bình
+NgayBatDau: 2023/09/13
+
+TenMonHoc: Lập Trình Web
+MaMonHoc: 23C1WEB202007
+GiaoVien: Trần Thị Anh
+NgayBatDau: 2023/09/15
+
+TenMonHoc: Nguyên Lý Điện Tử
+MaMonHoc: 23C1ELE101008
+GiaoVien: Phan Văn Dương
+NgayBatDau: 2023/09/17
+
+TenMonHoc: Marketing
+MaMonHoc: 23C1MKT303009
+GiaoVien: Nguyễn Thị Mai
+NgayBatDau: 2023/09/19
+
+TenMonHoc: Quy Trình Sản Xuất
+MaMonHoc: 23C1PROD404010
+GiaoVien: Vũ Thị Lan
+NgayBatDau: 2023/09/21
+
+TenMonHoc: Ngôn Ngữ Học
+MaMonHoc: 23C1LIN201011
+GiaoVien: Lê Văn Sơn
+NgayBatDau: 2023/09/23
+
+TenMonHoc: Điện Tử Cơ Bản
+MaMonHoc: 23C1ELE101012
+GiaoVien: Trần Thị Hoa
+NgayBatDau: 2023/09/25
+
+TenMonHoc: Quản Lý Dự Án
+MaMonHoc: 23C1PMP505013
+GiaoVien: Phạm Văn Tâm
+NgayBatDau: 2023/09/27
+

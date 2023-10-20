@@ -1,0 +1,72 @@
+﻿MaSoSinhVien: 2023002
+TenSinhVien: Nguyễn Văn Tú
+GioiTinh: Nữ
+Tuoi: 19
+Email: tu123@gmail.com
+GPA: 3.5
+XepLoai: Giỏi
+
+MaSoSinhVien: 2023003
+TenSinhVien: Lê Thị Hương
+GioiTinh: Nữ
+Tuoi: 20
+Email: huong456@gmail.com
+GPA: 3.6
+XepLoai: Giỏi
+
+MaSoSinhVien: 2023004
+TenSinhVien: Trần Minh Tâm
+GioiTinh: Nam
+Tuoi: 21
+Email: tam789@gmail.com
+GPA: 3.55
+XepLoai: Giỏi
+
+MaSoSinhVien: 2023005
+TenSinhVien: Phạm Thị Mai
+GioiTinh: Nữ
+Tuoi: 20
+Email: mai101@gmail.com
+GPA: 3.4
+XepLoai: Giỏi
+
+MaSoSinhVien: 2023006
+TenSinhVien: Nguyễn Văn Anh
+GioiTinh: Nam
+Tuoi: 19
+Email: anh202@gmail.com
+GPA: 3.3
+XepLoai: Giỏi
+
+MaSoSinhVien: 2023007
+TenSinhVien: Bùi Thị Lan
+GioiTinh: Nữ
+Tuoi: 20
+Email: lan303@gmail.com
+GPA: 3.5
+XepLoai: Giỏi
+
+MaSoSinhVien: 2023008
+TenSinhVien: Trần Văn Đông
+GioiTinh: Nam
+Tuoi: 21
+Email: dong404@gmail.com
+GPA: 3.45
+XepLoai: Giỏi
+
+MaSoSinhVien: 2023009
+TenSinhVien: Lê Thị Trang
+GioiTinh: Nữ
+Tuoi: 19
+Email: trang505@gmail.com
+GPA: 3.6
+XepLoai: Giỏi
+
+MaSoSinhVien: 2023010
+TenSinhVien: Phạm Văn Hải
+GioiTinh: Nam
+Tuoi: 20
+Email: hai606@gmail.com
+GPA: 3.4
+XepLoai: Giỏi
+
